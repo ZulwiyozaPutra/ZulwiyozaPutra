@@ -3,7 +3,7 @@
 - 💬 Ask me question about iOS, Swift and Objective-C
 - 📫 How to reach me: zulwiyozaputra@gmail.com
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ZulwiyozaPutra?style=social)
+<a href="https://twitter.com/intent/follow?screen_name=ZulwiyozaPutra">![Twitter Follow](https://img.shields.io/twitter/follow/ZulwiyozaPutra?style=social)</a>
 
 <!--
 **ZulwiyozaPutra/ZulwiyozaPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
