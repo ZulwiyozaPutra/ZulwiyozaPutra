@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Putra 👋👨‍💻
+
+- 💬 Ask me about iOS, Swift and Objective-C
+- 📫 How to reach me: zulwiyozaputra@gmail.com
 
 <!--
 **ZulwiyozaPutra/ZulwiyozaPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
