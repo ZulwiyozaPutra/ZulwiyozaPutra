@@ -1,7 +1,6 @@
 ### Hi there, I'm Putra 👋👨‍💻
 
 - 💬 Ask me question about iOS, Swift and Objective-C
-- 📫 How to reach me: zulwiyozaputra@gmail.com
 
 <a href="https://twitter.com/intent/follow?screen_name=ZulwiyozaPutra">![Twitter Follow](https://img.shields.io/twitter/follow/ZulwiyozaPutra?style=social)</a>
 
